@@ -1,0 +1,2 @@
+# cert_validation_success_monitor
+Mozilla CERT_VALIDATION_SUCCESS_BY_CA telemetry processor
